@@ -20,6 +20,3 @@ def add_artist(music, artist, song)
   music.push "song"
   return music
 end
-
-
-
